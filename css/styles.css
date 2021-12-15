@@ -1,0 +1,93 @@
+html,
+body {
+  height: 100%;
+  font-size: 1rem;
+  font-family: 'Abril Fatface', cursive;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Nanum Brush Script', cursive;
+font-family: 'Roboto Slab', serif;
+}
+
+.logo1 {
+  height: 50px;
+}
+.gradient {
+  background: black;
+  );
+}
+.page-header {
+  margin-top: 5rem;
+  font-size:1.5rem;
+  color:azure;
+}
+.breakingtheice{
+    height:400px;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap");
+
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+}
+
+.height {
+    height: 100vh
+}
+
+.card {
+    border: none;
+    padding: 20px;
+    background-color: #f00606e8;
+    color: #fff
+}
+
+
+.form-input {
+    position: relative;
+    margin-bottom: 10px;
+    margin-top: 10px
+}
+
+.form-input i {
+    position: absolute;
+    font-size: 18px;
+    top: 15px;
+    left: 10px
+}
+
+.form-control {
+    height: 50px;
+    background-color: #181714;
+    text-indent: 24px;
+    font-size: 15px
+}
+
+
+
+.form-check-label {
+    margin-top: 2px;
+    font-size: 14px
+}
+
+.signup {
+    height: 50px;
+    font-size: 14px
+}
+
+
+
+
+.peoplesmiling{
+    background-color:#ffd700;
+}
+.gradient1{
+    background-color: #ffffff;
+}
+
+
+.yellow{
+    color:yellow;
+}
+
